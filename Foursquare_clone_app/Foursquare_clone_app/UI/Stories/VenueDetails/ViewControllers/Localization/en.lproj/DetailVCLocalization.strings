@@ -1,0 +1,21 @@
+
+"LabelTextPlaceholder" = "No Data!";
+
+"VenueNameLabelText" = "Venue Name";
+"Add Hours" = "Add Hours";
+"ShowMap" = "Show map";
+"Add Phone" = "Add Phone";
+"Add Website" = "Add Website";
+"Add Categories" = "Add Categories";
+"HoursLabelText" = "HOURS";
+"AdressLabelText" = "ADRESS";
+"CategoriesLabelText" = "CATEGORIES";
+"PhoneLabelText" = "PHONE";
+"WebSiteLabelText" = "WEBSITE";
+
+"NotDataTableViewCell.LabelText" = "Sorry. Something went wrong. No data available";
+"СlearButton" = "Сlear";
+
+"AlertTitle" = "Error";
+"AlertMessage" = "When downloading data error occurred";
+"AlertActionTitle" = "Okey";

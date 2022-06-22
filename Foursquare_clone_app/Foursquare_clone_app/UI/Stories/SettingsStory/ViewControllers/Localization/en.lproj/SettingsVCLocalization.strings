@@ -1,0 +1,12 @@
+
+"Title" = "Settings";
+
+"PushNotification" = "Push-notifications";
+"AboutUs" = "About us";
+"TermsOfUse" = "Terms of use";
+"Privacy" = "Privacy";
+
+"AlertTitle" = "Notification";
+"AlertSet" = "Set";
+"AlerRemove" = "Remove";
+"AlertCancel" = "Cancel";

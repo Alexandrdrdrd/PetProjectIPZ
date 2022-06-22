@@ -1,0 +1,14 @@
+
+
+"Title" = "Поиск";
+"SearchButton.Title" = "Что ищите?";
+"BreakfastTitle" = "Завтрак";
+"LunchTitle" = "Обед";
+"DinnerTitle" = "Ужин";
+"CoffeeAndTeaTitle" = "Кофе и чай";
+"NightlifeTitle" = "Ночь";
+"ThingsToDoTitle" = "Дела";
+
+"LocationErrorAlert.Title" = "Службы геолокации отключены";
+"LocationErrorAlert.Message" = "Пожалуйста, включите службы геолокации в настройках";
+"LocationErrorAlert.Action" = "Окей";

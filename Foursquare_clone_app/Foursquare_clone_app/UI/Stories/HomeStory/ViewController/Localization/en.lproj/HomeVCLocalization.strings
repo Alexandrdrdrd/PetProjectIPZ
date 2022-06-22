@@ -1,0 +1,14 @@
+
+
+"Title" = "Search";
+"SearchButton.Title" = "What are looking for?";
+"BreakfastTitle" = "Breakfast";
+"LunchTitle" = "Lunch";
+"DinnerTitle" = "Dinner";
+"CoffeeAndTeaTitle" = "Coffee & Tea";
+"NightlifeTitle" = "Nightlife";
+"ThingsToDoTitle" = "Things to do";
+
+"LocationErrorAlert.Title" = "Location Services disabled";
+"LocationErrorAlert.Message" = "Please enable Location Services in Settings";
+"LocationErrorAlert.Action" = "Okey";
